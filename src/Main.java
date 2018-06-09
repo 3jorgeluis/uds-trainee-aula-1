@@ -6,7 +6,7 @@ class Main {
         System.out.println("hello world");
         String nome = "jorge";
         String sobrenome = "luis";
-        Integer idade = 17;
+        Integer idade = 18;
         Boolean generomasculino = true;
         Double peso = 65.444;
         System.out.println(nome + " " + sobrenome + " "  + idade + "anos" + generomasculino + " " + peso);
